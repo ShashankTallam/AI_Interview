@@ -119,7 +119,7 @@ Generate interview questions and score answers
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-interviewer.git
+git clone https://github.com/ShashankTallam/ai-interviewer.git
 cd ai-interviewer
 ```
 
